@@ -27,7 +27,7 @@ header {
 }
 
 main {
-  height: 65vh;
+  height: 60vh;
   color: #eee;
   display: flex;
   align-items: center;
@@ -117,4 +117,17 @@ h1 {
 
 .label-score {
   margin-bottom: 2rem;
+}
+
+.footer{
+  /* background-color: #eee; */
+  padding-left: 2rem;
+  color: #eee;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.copyright_text{
+  font-size: 1.5rem;
+  line-height: 3rem;
 }
