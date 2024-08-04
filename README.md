@@ -1,4 +1,2 @@
-A Simple Game Made with HTML CSS and JavaScript.
-Guess My Number.
-Creator : M Hossein Mohseni
-Email : mohammadwh400@gmail.com 
+Fancy Gallery
+Image Container and Image View with switching image buttons.
